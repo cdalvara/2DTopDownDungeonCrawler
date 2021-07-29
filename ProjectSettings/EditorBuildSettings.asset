@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dab64f8123dc29145b70dca0ab756e69
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: e11daeb0ba93a4adc9f0e034036d01ea
+  - enabled: 1
+    path: Assets/Scenes/EntranceMain.unity
+    guid: 2287763f41d63dd49a3f1278eea0215b
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceStart.unity
+    guid: 8b204105bab64854c8a2562b11e93712
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceEmpty.unity
+    guid: 49c14531a2106ab4ca33490f6d835cde
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceEnd.unity
+    guid: eb37ebd105e46ef408911a9257f25c59
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceBasic1.unity
+    guid: 95950a017aecb5445a62d154648549ee
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceBasic2.unity
+    guid: 974d9e7570118714fa58a5617bf94655
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks1.unity
+    guid: ad6a4fa54c3e4c449b5256e2876d6b75
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks2.unity
+    guid: 0e16a2bc03ac346c3851da4dbfed50b2
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks3.unity
+    guid: 1e832b37e742d4720b2df43fbddb6643
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks4.unity
+    guid: 9e1dbad1e95c546f8828c71513d4a5c7
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks5.unity
+    guid: c8128c2fea29a4b808dd3263d752a52e
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks6.unity
+    guid: 98c09a316ad25430899a642eeb6f6086
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks7.unity
+    guid: 78c3cc6473ae942cc85f6f9191eb3b25
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks8.unity
+    guid: 27aa119e24f8d49629cac05b4f2497d8
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks9.unity
+    guid: fd7ec927454a14c7389fb4604dc1e0b7
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks10.unity
+    guid: 7873c3285b2ee4df6af4ea217d355e50
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks11.unity
+    guid: c5c48c314d62345f1a34265c3c518428
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks12.unity
+    guid: 427a786b6b0d74ac3b568b2cce6852e0
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks13.unity
+    guid: c87600c4c764d43a2ba4d73a08649660
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks14.unity
+    guid: 50a6f1a88e1ba4446998441d3b000913
+  - enabled: 1
+    path: Assets/Scenes/Rooms/EntranceRocks15.unity
+    guid: c3a0fa093be7a4d69944bc24c1271f2a
+  m_configObjects: {}

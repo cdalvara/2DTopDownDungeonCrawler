@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: 47d16ff8222e73a4e8bde94f676f31bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6633621557728060020
+    second: Enviroment_Spritesheet_0
+  - first:
+      213: -3935469645586474901
+    second: Enviroment_Spritesheet_1
+  - first:
+      213: 5788930993853800764
+    second: Enviroment_Spritesheet_2
+  - first:
+      213: -6804975725760306774
+    second: Enviroment_Spritesheet_3
+  - first:
+      213: -4115798085657822127
+    second: Enviroment_Spritesheet_4
+  - first:
+      213: -1849722896765896769
+    second: Enviroment_Spritesheet_5
+  - first:
+      213: 3035644185428756972
+    second: Enviroment_Spritesheet_6
+  - first:
+      213: -7922684933609633597
+    second: Enviroment_Spritesheet_7
+  - first:
+      213: 678184772619335164
+    second: Enviroment_Spritesheet_8
+  - first:
+      213: -9142858626567536424
+    second: Enviroment_Spritesheet_9
+  - first:
+      213: -8088908808483771394
+    second: Enviroment_Spritesheet_10
+  - first:
+      213: 4393961825313194352
+    second: Enviroment_Spritesheet_11
+  - first:
+      213: 5257345251990674672
+    second: Enviroment_Spritesheet_12
+  - first:
+      213: -324526319838762757
+    second: Enviroment_Spritesheet_13
+  - first:
+      213: -2781447483872756723
+    second: Enviroment_Spritesheet_14
+  - first:
+      213: -2640587334193810524
+    second: Enviroment_Spritesheet_15
+  - first:
+      213: 2362735848840647042
+    second: Enviroment_Spritesheet_16
+  - first:
+      213: 6128678278530259097
+    second: Enviroment_Spritesheet_17
+  - first:
+      213: -1027492803620571971
+    second: Enviroment_Spritesheet_18
+  - first:
+      213: 2871404450099457883
+    second: Enviroment_Spritesheet_19
+  - first:
+      213: -1763051791044622500
+    second: Enviroment_Spritesheet_Split_0
+  - first:
+      213: 62070119429343309
+    second: Enviroment_Spritesheet_Split_1
+  - first:
+      213: -4968220507084168424
+    second: Enviroment_Spritesheet_Split_2
+  - first:
+      213: -6914625711200249035
+    second: Enviroment_Spritesheet_Split_3
+  - first:
+      213: 4814313155021902402
+    second: Enviroment_Spritesheet_Split_4
+  - first:
+      213: 415881102651957860
+    second: Enviroment_Spritesheet_Split_5
+  - first:
+      213: -7839260837158926565
+    second: Enviroment_Spritesheet_Split_6
+  - first:
+      213: -7113281833742713877
+    second: Enviroment_Spritesheet_Split_7
+  - first:
+      213: 654712078651467906
+    second: Enviroment_Spritesheet_Split_8
+  - first:
+      213: -8968483887314090269
+    second: Enviroment_Spritesheet_Split_9
+  - first:
+      213: -990469450110148184
+    second: Enviroment_Spritesheet_Split_10
+  - first:
+      213: 8768146397908918062
+    second: Enviroment_Spritesheet_Split_11
+  - first:
+      213: -7653232489626737522
+    second: Enviroment_Spritesheet_Split_12
+  - first:
+      213: 6547750305232243197
+    second: Enviroment_Spritesheet_Split_13
+  - first:
+      213: -2597948446785713388
+    second: Enviroment_Spritesheet_Split_14
+  - first:
+      213: -2915051237595467923
+    second: Enviroment_Spritesheet_Split_15
+  - first:
+      213: -1584379216808767320
+    second: Enviroment_Spritesheet_Split_16
+  - first:
+      213: -7508878880348231355
+    second: Enviroment_Spritesheet_Split_17
+  - first:
+      213: 8170798155188191462
+    second: Enviroment_Spritesheet_Split_18
+  - first:
+      213: 5806893052830912519
+    second: Enviroment_Spritesheet_Split_19
+  - first:
+      213: 179435680535176895
+    second: Enviroment_Spritesheet_Split_20
+  - first:
+      213: -1219529832113862382
+    second: Enviroment_Spritesheet_Split_21
+  - first:
+      213: -2457992547284098627
+    second: Enviroment_Spritesheet_Split_22
+  - first:
+      213: 1608367628545886347
+    second: Enviroment_Spritesheet_Split_23
+  - first:
+      213: 1166772358483926097
+    second: Enviroment_Spritesheet_Split_24
+  - first:
+      213: -6205243154521776795
+    second: Enviroment_Spritesheet_Split_25
+  - first:
+      213: -1368537676512375758
+    second: Enviroment_Spritesheet_Split_26
+  - first:
+      213: -6835497646478695538
+    second: Enviroment_Spritesheet_Split_27
+  - first:
+      213: -2951205269872083218
+    second: Enviroment_Spritesheet_Split_28
+  - first:
+      213: 2696050346578436290
+    second: Enviroment_Spritesheet_Split_29
+  - first:
+      213: 5459852350745833456
+    second: Enviroment_Spritesheet_Split_30
+  - first:
+      213: 6658510835344446227
+    second: Enviroment_Spritesheet_Split_31
+  - first:
+      213: -9206938129062547525
+    second: Enviroment_Spritesheet_Split_32
+  - first:
+      213: -3758503677860401251
+    second: Enviroment_Spritesheet_Split_33
+  - first:
+      213: -8588173494939347877
+    second: Enviroment_Spritesheet_Split_34
+  - first:
+      213: 3806502495025962361
+    second: Enviroment_Spritesheet_Split_35
+  - first:
+      213: -6097535171445770525
+    second: Enviroment_Spritesheet_Split_36
+  - first:
+      213: -7778360988976570568
+    second: Enviroment_Spritesheet_Split_37
+  - first:
+      213: 4326928216377726774
+    second: Enviroment_Spritesheet_Split_38
+  - first:
+      213: -77897220714326014
+    second: Enviroment_Spritesheet_Split_39
+  - first:
+      213: -2469898914889552307
+    second: Enviroment_Spritesheet_Split_40
+  - first:
+      213: -4763641021497122737
+    second: Enviroment_Spritesheet_Split_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574b22bcb16887e0800000000000000
+      internalID: -1763051791044622500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4880cbd1748cd000800000000000000
+      internalID: 62070119429343309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ef6585c55d0bb0800000000000000
+      internalID: -4968220507084168424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b50290d805a00a0800000000000000
+      internalID: -6914625711200249035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421292ae40efc240800000000000000
+      internalID: 4814313155021902402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622e50d8a185c500800000000000000
+      internalID: 415881102651957860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb6882cdb884d90800000000000000
+      internalID: -7113281833742713877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ad2eaa21061900800000000000000
+      internalID: 654712078651467906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e644daeb6b898380800000000000000
+      internalID: -8968483887314090269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ee4968452142f0800000000000000
+      internalID: -990469450110148184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5bf971b6bea970800000000000000
+      internalID: 8768146397908918062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e15869914ac590800000000000000
+      internalID: -7653232489626737522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4f84f6ab32fbd0800000000000000
+      internalID: -2597948446785713388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2f011858ab87d0800000000000000
+      internalID: -2915051237595467923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01a982f77230ae0800000000000000
+      internalID: -1584379216808767320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549296b217a1bc790800000000000000
+      internalID: -7508878880348231355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0c863a1a1846170800000000000000
+      internalID: 8170798155188191462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009bae177a369050800000000000000
+      internalID: 5806893052830912519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198cdb341c531fe0800000000000000
+      internalID: -1219529832113862382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e29e1dc473edd0800000000000000
+      internalID: -2457992547284098627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8807bf26d1125610800000000000000
+      internalID: 1608367628545886347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 60
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cdd293745313010800000000000000
+      internalID: 1166772358483926097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fa12281dc17dbc0800000000000000
+      internalID: -3758503677860401251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviroment_Spritesheet_Split_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5417bc55bda0d880800000000000000
+      internalID: -8588173494939347877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7925567849884901125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7925567849884901123}
+  - component: {fileID: 7925567849884901122}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7925567849884901123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925567849884901125}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 575, y: 317, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7925567849884901122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925567849884901125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a72da908b38ff184d9d225b8f504b8fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Theme
+    clip: {fileID: 8300000, guid: 4fa7fb5ff40bf9b49aec6ff3c7e17782, type: 3}
+    volume: 0.021
+    pitch: 1
+    loop: 1
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: Main Menu
+    clip: {fileID: 8300000, guid: 4fa7fb5ff40bf9b49aec6ff3c7e17782, type: 3}
+    volume: 0.026
+    pitch: 1
+    loop: 1
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: EnemyProj
+    clip: {fileID: 8300000, guid: a532355b14430eb4496c6c08e895d5df, type: 3}
+    volume: 0.021
+    pitch: 1.41
+    loop: 0
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 8300000, guid: be5ff390f5e58ae4abb5ba1fd44fb88c, type: 3}
+    volume: 0.271
+    pitch: 1
+    loop: 1
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: Item
+    clip: {fileID: 8300000, guid: 5a84dc6c973015146ab2c8c892d83ca4, type: 3}
+    volume: 0.05
+    pitch: 1
+    loop: 0
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: ThrowDagger
+    clip: {fileID: 8300000, guid: 6cf8d67e93abd194a958197f76063e28, type: 3}
+    volume: 0.026
+    pitch: 1.6
+    loop: 0
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: ShrimpAttack
+    clip: {fileID: 8300000, guid: 9ec19af708d18624499c07114644c2b5, type: 3}
+    volume: 0.026
+    pitch: 1.49
+    loop: 0
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}
+  - name: EnemyDeath
+    clip: {fileID: 8300000, guid: 31bd125e70efb0c4bab4b52bd91b7f9d, type: 3}
+    volume: 0.026
+    pitch: 1
+    loop: 0
+    group: {fileID: 24300002, guid: 8199507004fa0a041af77b19af8cae7a, type: 2}
+    source: {fileID: 0}

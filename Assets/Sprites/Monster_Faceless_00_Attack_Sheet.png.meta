@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 6afac09e17e52f2429968c65fd92b03e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1456661058705515640
+    second: Monster_Faceless_00_Attack_Sheet_0
+  - first:
+      213: 1117345093806668165
+    second: Monster_Faceless_00_Attack_Sheet_1
+  - first:
+      213: -5126842444850357558
+    second: Monster_Faceless_00_Attack_Sheet_2
+  - first:
+      213: 110405524764280076
+    second: Monster_Faceless_00_Attack_Sheet_3
+  - first:
+      213: 2174181447923883076
+    second: Monster_Faceless_00_Attack_Sheet_4
+  - first:
+      213: -2845145059485000473
+    second: Monster_Faceless_00_Attack_Sheet_5
+  - first:
+      213: 7105454280268992631
+    second: Monster_Faceless_00_Attack_Sheet_6
+  - first:
+      213: -3833244089899108342
+    second: Monster_Faceless_00_Attack_Sheet_0
+  - first:
+      213: -6275091783058423970
+    second: Monster_Faceless_00_Attack_Sheet_1
+  - first:
+      213: -2963412839504665933
+    second: Monster_Faceless_00_Attack_Sheet_2
+  - first:
+      213: 6469824729435737911
+    second: Monster_Faceless_00_Attack_Sheet_3
+  - first:
+      213: 7130448722847608656
+    second: Monster_Faceless_00_Attack_Sheet_4
+  - first:
+      213: 3325904153723467409
+    second: Monster_Faceless_00_Attack_Sheet_5
+  - first:
+      213: 1423136413265329353
+    second: Monster_Faceless_00_Attack_Sheet_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b2344fc49dcac0800000000000000
+      internalID: -3833244089899108342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f74d925456ae8a0800000000000000
+      internalID: -6275091783058423970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22e7a29b7dfd6d0800000000000000
+      internalID: -2963412839504665933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 4
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f0e05105f69c950800000000000000
+      internalID: 6469824729435737911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 12
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f287ea55174f260800000000000000
+      internalID: 7130448722847608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 12
+        width: 116
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196fea7d43cf72e20800000000000000
+      internalID: 3325904153723467409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster_Faceless_00_Attack_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 12
+        width: 203
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7a9b170fffb310800000000000000
+      internalID: 1423136413265329353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

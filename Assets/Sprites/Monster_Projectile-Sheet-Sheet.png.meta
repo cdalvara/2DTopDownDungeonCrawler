@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 5f4693c04eace3b4bb3e8182c0a5bebe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6362797043758318838
+    second: Monster_Projectile-Sheet-Sheet_0
+  - first:
+      213: -1742959496849821156
+    second: Monster_Projectile-Sheet-Sheet_1
+  - first:
+      213: 2997210825199641944
+    second: Monster_Projectile-Sheet-Sheet_2
+  - first:
+      213: -2066453360349074451
+    second: Monster_Projectile-Sheet-Sheet_3
+  - first:
+      213: -3651373477584532145
+    second: Monster_Projectile-Sheet-Sheet_4
+  - first:
+      213: 1819935626086308604
+    second: Monster_Projectile-Sheet-Sheet_5
+  - first:
+      213: -6917205408210003204
+    second: Monster_Projectile-Sheet-Sheet_6
+  - first:
+      213: -7643288072666692742
+    second: Monster_Projectile-Sheet-Sheet_7
+  - first:
+      213: 525817500643758981
+    second: Monster_Projectile-Sheet-Sheet_8
+  - first:
+      213: -603006018151462393
+    second: Monster_Projectile-Sheet-Sheet_9
+  - first:
+      213: 6438939328857165415
+    second: Monster_Projectile-Sheet-Sheet_10
+  - first:
+      213: -7240568441047075908
+    second: Monster_Projectile-Sheet-Sheet_11
+  - first:
+      213: -7650911745088501087
+    second: Monster_Projectile-Sheet-Sheet_12
+  - first:
+      213: 5875404490327548493
+    second: Monster_Projectile-Sheet-Sheet_13
+  - first:
+      213: 5423497948735477039
+    second: Monster_Projectile-Sheet-Sheet_14
+  - first:
+      213: 1672080754940930871
+    second: Monster_Projectile-Sheet-Sheet_15
+  - first:
+      213: -2062763523303240159
+    second: Monster_Projectile-Sheet-Sheet_16
+  - first:
+      213: 4105433676971018501
+    second: Monster_Projectile-Sheet-Sheet_17
+  - first:
+      213: 3894431283923533111
+    second: Monster_Projectile-Sheet-Sheet_18
+  - first:
+      213: 1736274572697696852
+    second: Monster_Projectile-Sheet-Sheet_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

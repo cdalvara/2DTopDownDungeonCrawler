@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602afe7a2a84319408cda061e47a72c6, type: 3}
+  m_Name: FlyingEnemy
+  m_EditorClassIdentifier: 
+  itemToSpawn: {fileID: 3065122964453562218, guid: d3b14f6837c82e04789436aea62d6708,
+    type: 3}
+  minSpawn: 3
+  maxSpawn: 5
